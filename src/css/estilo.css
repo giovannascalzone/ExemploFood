@@ -1,0 +1,11 @@
+:root{
+    --color1: #fff;
+    --color2: #000;
+    --bgcolor: pink;
+}
+
+.todo-container{
+    background: var(--bgcolor);
+    text-align: center;
+    border-radius: 20px;
+}
